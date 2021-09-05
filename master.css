@@ -7,3 +7,8 @@ div{
     background: blue;
     border: orange 3px dashed;
 }
+
+span{
+    background: purple;
+    color: black;
+}

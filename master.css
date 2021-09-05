@@ -5,4 +5,7 @@
 
 div{
     background: blue;
+    border: orange;
+    border-width: thick;
+    border-style: dotted;
 }

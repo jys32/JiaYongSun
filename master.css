@@ -12,10 +12,6 @@ table{
     border: 3px solid black ;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
     background-color:plum;
   }
-
-th{
-    background-color: plum;
-}

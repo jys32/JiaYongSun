@@ -11,5 +11,5 @@
 .pic{
     height: 500px;
     width: 500px;
-    background-repeat: no-repeat;
+    border-image-repeat: no-repeat;
 }

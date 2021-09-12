@@ -8,14 +8,10 @@
     border: palegoldenrod dotted;
 }
 
-table{
+.table{
     border: 3px solid black ;
 }
 
-tr:nth-child(even) {
-    background-color:plum;
-  }
-
-thead:nth-child(odd){
+.row1{
     background-color: plum;
 }

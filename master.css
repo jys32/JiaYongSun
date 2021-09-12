@@ -16,6 +16,6 @@ tr:nth-child(even) {
     background-color:plum;
   }
 
-thead:nth-child(){
+thead:nth-child(odd){
     background-color: plum;
 }

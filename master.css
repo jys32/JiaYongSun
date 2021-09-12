@@ -15,3 +15,7 @@ table{
 tr:nth-child(even) {
     background-color:plum;
   }
+
+th{
+    background-color: plum;
+}

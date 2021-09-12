@@ -7,9 +7,3 @@
     color: plum;
     border: palegoldenrod dotted;
 }
-
-.pic{
-    height: 500px;
-    width: 500px;
-    border-image-repeat: no-repeat;
-}

@@ -1,0 +1,21 @@
+.div1{
+    color: palegoldenrod;
+    background-color: rosybrown;
+}
+
+#solo{
+    color: plum;
+    border: palegoldenrod dotted;
+}
+
+.table{
+    border: 3px solid black ;
+}
+
+.row1{
+    background-color: plum;
+}
+
+.row2{
+    background-color: palegoldenrod;
+}
